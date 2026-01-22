@@ -1,0 +1,17 @@
+body{
+    margin: 20;
+    border: 0;
+    padding: 0;
+
+}
+
+.box{
+    width: 815px;
+    height: 50px;
+    background: turquoise;
+    margin-bottom: 16px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    display: grid; place-items: centerd;
+}

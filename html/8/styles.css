@@ -1,0 +1,12 @@
+body{
+    background-image: url(rakušánek.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.scroll-text{
+    background: rgba(200, 19, 19, 0.5);
+    width: 50%;
+    text-align: center;
+    border-radius: 12px;
+}
